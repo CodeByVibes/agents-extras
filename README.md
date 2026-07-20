@@ -30,8 +30,7 @@ skills/
 ## Usage
 
 Each skill is an independent, self-contained directory. Copy the desired
-skill directory into your project's skill set or reference it directly from
-your Kilo configuration.
+skill directory into your global or project's skill set.
 
 ## License
 
