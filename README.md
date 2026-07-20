@@ -1,7 +1,6 @@
 # Agent Skills
 
-> Reusable [Kilo](https://github.com/CodeByVibes/) agent skills
-> for automated coding workflows across languages and frameworks.
+> Reusable agent skills for automated coding workflows across languages and frameworks.
 
 ## Skills
 
